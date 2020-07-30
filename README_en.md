@@ -3,7 +3,7 @@
 BASED [!["THE SUSHI-WARE LICENSE"](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
 ## What is this license?
-This license is based on [SUSHI-WARE LICENSE] (https://github.com/MakeNowJust/sushi-ware).  
+This license is based on [SUSHI-WARE LICENSE](https://github.com/MakeNowJust/sushi-ware).  
 By merging MIT LICENSE and SUSHI-WARE LICENSE, it became possible for users to freely use the software while keeping the copyright notice of the author (copyright holder).
 
   - I agree that the author (copyright holder) is not responsible for the software.
