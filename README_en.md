@@ -20,7 +20,7 @@ By merging MIT LICENSE and SUSHI-WARE LICENSE, it became possible for users to f
 - This repository is also provided by `MIT SUSHI-WARE LICENSE`.
 
 ## Contribute.
-~~ I'd really appreciate it if you could share it on social media ~~
+~~I'd really appreciate it if you could share it on social media~~
 - typo
 - A better idea
 - Support for other languages
