@@ -12,7 +12,7 @@ By merging MIT LICENSE and SUSHI-WARE LICENSE, it became possible for users to f
   If the above two conditions are met, the following rights are granted:
   
   - The right to use, copy, modify, and redistribute without charge and without restriction.
-  - The right to buy the author (copyright holder) of the software a sushi dinner
+  - The right to buy the author (copyright holder) of the software a sushi
 
 ## Notes.
 - Buying sushi to original creator is not an obligation, it's a "right"!
