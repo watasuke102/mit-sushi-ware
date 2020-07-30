@@ -18,7 +18,7 @@ By merging MIT LICENSE and SUSHI-WARE LICENSE, it became possible for users to f
   - The right to buy the author (copyright holder) of the software a sushi
 
 ## Budge
-`![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)`
+`![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)`  
 ![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
 
 ## Notes
