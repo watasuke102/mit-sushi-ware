@@ -1,5 +1,5 @@
 # THE MIT SUSHI-WARE LICENSE
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+![LICENSE: MIT SUSHI-WARE🍣](https://camo.githubusercontent.com/e8bb278c82fd3ae619aa2ddb67b7ba52fe3f22b2/68747470733a2f2f7761746173756b652e746b2f7069632f6c6963656e73652d4d49545f53555348492d574152452e737667)
 
 ---
 
@@ -18,8 +18,8 @@ MIT LICENSEとSUSHI-WARE LICENSEを合体させ、作者(著作権者)の著作�
   - ソフトウェアの作者(著作権者)に、寿司🍣を奢ることができる権利
 
 ## バッジ
-`![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)`  
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+`![LICENSE: MIT SUSHI-WARE🍣](https://camo.githubusercontent.com/e8bb278c82fd3ae619aa2ddb67b7ba52fe3f22b2/68747470733a2f2f7761746173756b652e746b2f7069632f6c6963656e73652d4d49545f53555348492d574152452e737667)`  
+![LICENSE: MIT SUSHI-WARE🍣](https://camo.githubusercontent.com/e8bb278c82fd3ae619aa2ddb67b7ba52fe3f22b2/68747470733a2f2f7761746173756b652e746b2f7069632f6c6963656e73652d4d49545f53555348492d574152452e737667)
 
 ## 注意事項
 - 寿司を奢るのは義務ではなく、あくまで「権利」です
