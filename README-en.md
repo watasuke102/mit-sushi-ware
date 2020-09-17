@@ -1,5 +1,5 @@
 # THE MIT SUSHI-WARE LICENSE
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+![LICENSE: MIT SUSHI-WARE🍣](http://watasuke.tk/pic/MIT-SUSHI-WARE.svg)
 
 ---
 
@@ -18,8 +18,8 @@ By merging MIT LICENSE and SUSHI-WARE LICENSE, it became possible for users to f
   - The right to buy the author (copyright holder) of the software a sushi
 
 ## Budge
-`![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)`  
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+`![LICENSE: MIT SUSHI-WARE🍣](http://watasuke.tk/pic/MIT-SUSHI-WARE.svg)`
+![LICENSE: MIT SUSHI-WARE🍣](http://watasuke.tk/pic/MIT-SUSHI-WARE.svg)
 
 ## Notes
 - Buying sushi to original creator is not an obligation, it's a "right"!
