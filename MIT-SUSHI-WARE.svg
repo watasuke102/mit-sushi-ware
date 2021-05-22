@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="28" role="img" aria-label="LICENSE: MIT SUSHI-WARE🍣">
+	<title>LICENSE: MIT SUSHI-WARE🍣</title>
+	<g shape-rendering="crispEdges">
+		<rect          width="79.5" height="28" fill="#555"/>
+		<rect x="79.5" width="160.5"  height="28" fill="#6C1"/>
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+		<text fill="#fff" x="397.5" y="175" transform="scale(.1)" textLength="555">LICENSE</text>
+		<text fill="#fff" x="1600" y="175" font-weight="bold" transform="scale(.1)" textLength="1350">MIT SUSHI-WARE 🍣</text>
+	</g>
+</svg>
