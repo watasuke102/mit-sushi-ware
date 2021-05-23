@@ -1,5 +1,5 @@
 # THE MIT SUSHI-WARE LICENSE
-![LICENSE: MIT SUSHI-WARE🍣](http://watasuke.tk/pic/MIT-SUSHI-WARE.svg)
+![LICENSE: MIT SUSHI-WARE🍣](https://raw.githubusercontent.com/watasuke102/mit-sushi-ware/master/MIT-SUSHI-WARE.svg)
 
 ---
 
@@ -18,8 +18,8 @@ MIT LICENSEとSUSHI-WARE LICENSEを合体させ、作者(著作権者)の著作�
   - ソフトウェアの作者(著作権者)に、寿司🍣を奢ることができる権利
 
 ## バッジ
-`![LICENSE: MIT SUSHI-WARE🍣](http://watasuke.tk/pic/MIT-SUSHI-WARE.svg)`  
-![LICENSE: MIT SUSHI-WARE🍣](http://watasuke.tk/pic/MIT-SUSHI-WARE.svg)
+`![LICENSE: MIT SUSHI-WARE🍣](https://raw.githubusercontent.com/watasuke102/mit-sushi-ware/master/MIT-SUSHI-WARE.svg)`  
+![LICENSE: MIT SUSHI-WARE🍣](https://raw.githubusercontent.com/watasuke102/mit-sushi-ware/master/MIT-SUSHI-WARE.svg)
 
 ## 注意事項
 - 寿司を奢るのは義務ではなく、あくまで「権利」です
@@ -39,4 +39,4 @@ Twitter (@Watasuke102) とGithubアカウントのフォロー、リポジトリ
 
 
 ---
-© 2020 わたすけ (@Watasuke102)
+© 2020-2021 わたすけ (@Watasuke102)
